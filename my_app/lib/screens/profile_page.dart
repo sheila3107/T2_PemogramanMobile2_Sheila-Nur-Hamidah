@@ -12,7 +12,7 @@ class _ProfilePageState extends State<ProfilePage> {
   String description = 'Scrol Fesnuk, Yapping';
   String email = 'tekno@test.com';
   String phone = '+62 812 3456 7890';
-  final String imageUrl = 'https://flutter.dev/images/flutter-logo-sharing.png';
+  final String imageUrl = 'assets/images/logo.png';
 
   final _formKey = GlobalKey<FormState>();
   final _nameController = TextEditingController();
